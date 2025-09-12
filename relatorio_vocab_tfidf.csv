@@ -1,0 +1,51 @@
+grupo,termo,df_estimado,idf
+Mais comuns (maior DF),The,35336,1.3471124315833916
+Mais comuns (maior DF),movie,30325,1.5000375748494013
+Mais comuns (maior DF),film,27583,1.5947708585037548
+Mais comuns (maior DF),like,22579,1.7949784465066327
+Mais comuns (maior DF),It,22448,1.8007969354618174
+Mais comuns (maior DF),This,21294,1.8535707018529717
+Mais comuns (maior DF),just,20035,1.9145123497327783
+Mais comuns (maior DF),good,18478,1.9954080530328602
+Mais comuns (maior DF),time,17083,2.0739006522489287
+Mais comuns (maior DF),really,14698,2.224195511443458
+Mais comuns (maior DF),story,14542,2.2349332270325757
+Mais comuns (maior DF),make,12106,2.4181766140686767
+Mais comuns (maior DF),people,11886,2.4365976392296615
+Mais comuns (maior DF),great,11877,2.4373550556344803
+Mais comuns (maior DF),way,11610,2.4600039590657654
+Mais comuns (maior DF),bad,11400,2.478341934376566
+Mais comuns (maior DF),don,11100,2.505007810877639
+Mais comuns (maior DF),seen,10625,2.5487391771993972
+Mais comuns (maior DF),think,10581,2.5527940651165615
+Mais comuns (maior DF),movies,10536,2.557150132610758
+Mais comuns (maior DF),acting,10433,2.566877464698985
+Mais comuns (maior DF),But,10393,2.5708142886418983
+Mais comuns (maior DF),watch,10219,2.5876964204525903
+Mais comuns (maior DF),characters,10142,2.5951606075332787
+Mais comuns (maior DF),plot,9799,2.6296606195516223
+Mais raros (maior IDF),AfroReggae,4,10.028038814982231
+Mais raros (maior IDF),Ann Marie,4,10.028038814982231
+Mais raros (maior IDF),Bix,4,10.028038814982231
+Mais raros (maior IDF),Bock,4,10.028038814982231
+Mais raros (maior IDF),Dibiase,4,10.028038814982231
+Mais raros (maior IDF),Dutcher,4,10.028038814982231
+Mais raros (maior IDF),Egon,4,10.028038814982231
+Mais raros (maior IDF),FFVII,4,10.028038814982231
+Mais raros (maior IDF),FREEDOM,4,10.028038814982231
+Mais raros (maior IDF),Falon,4,10.028038814982231
+Mais raros (maior IDF),Fanfan,4,10.028038814982231
+Mais raros (maior IDF),Favela,4,10.028038814982231
+Mais raros (maior IDF),Favela Rising,4,10.028038814982231
+Mais raros (maior IDF),Feresten,4,10.028038814982231
+Mais raros (maior IDF),Fuqua,4,10.028038814982231
+Mais raros (maior IDF),Gosha,4,10.028038814982231
+Mais raros (maior IDF),Gram Parsons,4,10.028038814982231
+Mais raros (maior IDF),Gruner,4,10.028038814982231
+Mais raros (maior IDF),Hackenstein,4,10.028038814982231
+Mais raros (maior IDF),Hallam,4,10.028038814982231
+Mais raros (maior IDF),Herschel,4,10.028038814982231
+Mais raros (maior IDF),Hitokiri,4,10.028038814982231
+Mais raros (maior IDF),Hollywood Hotel,4,10.028038814982231
+Mais raros (maior IDF),Khouri,4,10.028038814982231
+Mais raros (maior IDF),Lensman,4,10.028038814982231
